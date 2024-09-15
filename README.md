@@ -1,3 +1,11 @@
+# Fork Repo
+
+Fork From [HarmoneyOpenEye](https://github.com/WinWang/HarmoneyOpenEye)
+
+## 兼容性
+
+目前已适配`5.0.0`版本（2024/9/15）
+
 # 2024-2-23 Tips develop11分支已适配DevEco4.0+API 11版本
 
 # 华为鸿蒙HarmonyOpenEye
@@ -12,24 +20,6 @@
 7、添加全局loading实现<br>
 8、mock接口登陆状态校验+mock跳转登陆页面修改登陆状态场景<br>
 具体更多内容，请下载项目了解更多<br><br>
-
-## 其他一些学习练手的项目
-
-**Flutter版本**开眼App链接(getx+retrofit+dio+jsonserialize+自定义控件demo)：https://github.com/WinWang/open_eye <br>
-
-**Flutter版本**的音乐播放App链接(getx+retrofit+dio)：https://github.com/WinWang/music_listener <br>
-
-**ReactNative版本**的开眼App链接(ReactNative-0.72)：https://github.com/WinWang/RNOpenEye <br>
-
-**React版本**的开眼App链接(React18+React-Vant+Mobx+axios)：https://github.com/WinWang/react-oepn-eye <br>
-
-**Vue2版本**WanAndroid链接(Vue2+vuex+vant+axios)：https://github.com/WinWang/Vue-WanAndroid <br>
-
-**Vue3版本**WanAndroid链接(vue3+typeScript+pinia+vant+vite)：https://github.com/WinWang/Vue3-wanAndroid
-
-**Android组件化项目**ReadingGallery链接(jetpack+kotlin+koin+couroutine)：https://github.com/WinWang/ReadingGallery <br>
-
-**Android组件化项目初始化工具**ApplicationInit链接(gradle-plugin+注解APT+ASM)：https://github.com/WinWang/ApplicationInit <br>
 
 ## 项目演示图片 <br>
 
